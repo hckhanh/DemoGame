@@ -1,0 +1,4 @@
+version: 1.0.{build}
+build:
+  project: proj.win32/DemoGame.sln
+  verbosity: minimal
